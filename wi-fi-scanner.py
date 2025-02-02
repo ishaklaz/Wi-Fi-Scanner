@@ -56,5 +56,5 @@ def main():
     print("-" * 50)
     print(f"✅ {len(devices)} devices found.")
 
-if name == "main":
+if __name__ == "__main__":
     main()
