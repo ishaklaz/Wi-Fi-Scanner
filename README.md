@@ -10,12 +10,17 @@
 
 ## How To Use WFS:
 
-1) Download Requirements:
+#### 1) Download Requirements:
 
    'pip install scapy'
 
-2) Download Tool:
+#### 2) Download Tool:
 
-   'git clone https://github.com/ishaklaz/Wi-Fi-Scanner'
+   'git clone https://github.com/ishaklaz/Wi-Fi-Scanner.git'
+   'cd Wi-Fi-Scanner'
+   'python3 wi-fi-scanner.py'
 
-3
+#### 3) Get Result:
+
+just type python3 wi-fi-scanner.py
+you get result of your network
