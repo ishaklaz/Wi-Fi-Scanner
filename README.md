@@ -14,13 +14,11 @@
 
    'pip install scapy'
 
-#### 2) Download Tool:
+#### 2) Download Zip File From Github:
 
-   'git clone https://github.com/ishaklaz/Wi-Fi-Scanner.git'
-   'cd Wi-Fi-Scanner'
-   'python3 wi-fi-scanner.py'
+Click Code And Download Zip File
++ Extract File
 
 #### 3) Get Result:
 
-just type python3 wi-fi-scanner.py
-you get result of your network
+Just put the file in the codes editor(It is better to use VisualStudioCode) And Run Script and Get Result. 
